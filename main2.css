@@ -1,0 +1,18 @@
+
+.container {
+    position:absolute;
+    top:200px;
+    right:400px;
+}
+
+
+input[type="button"] {
+width:100%;
+font-size:30px;  
+}
+
+input[type="text"] {
+    text-align:right;
+    font-size:30px;  
+}
+
